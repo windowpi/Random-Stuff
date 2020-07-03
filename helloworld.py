@@ -5,11 +5,11 @@ num = input('Pick a number.\n')
 type(num)
 
 if num <= 80:
-    print 'Too low'
+    print ('Too low')
 elif num >= 82: 
-    print 'Too high'
+    print ('Too high')
 elif num == ansr:
-    print 'Perfect'
+    print ('Perfect')
 
 
 'print num'
